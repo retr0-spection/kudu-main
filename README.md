@@ -7,3 +7,4 @@ Here is a link to our microservices
 3. (Campus-Navigation-Service)[https://github.com/Tshiya1/Campus-Navigation-Service]
 4. (KuduNav-Rental)[https://github.com/MphoNkutha/KuduNav-Rental]
 5. (KuduNav-Auth)[https://github.com/retr0-spection/campus-transport-server]
+6. (KuduNav-App)[https://github.com/retr0-spection/campus-transport-app]
