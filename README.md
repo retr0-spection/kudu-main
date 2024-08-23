@@ -8,3 +8,4 @@ Here is a link to our microservices
 4. (KuduNav-Rental)[https://github.com/MphoNkutha/KuduNav-Rental]
 5. (KuduNav-Auth)[https://github.com/retr0-spection/campus-transport-server]
 6. (KuduNav-App)[https://github.com/retr0-spection/campus-transport-app]
+7. (KuduNav-API-Gateway)[https://github.com/Morwasi/K3rn3IP-n-c]
